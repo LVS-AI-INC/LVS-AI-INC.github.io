@@ -59,9 +59,7 @@ video
 #logo {
   width: 50%;
   height: 50%;
-  opacity: 0.5;
-  filter: alpha(opacity=30); /* For IE8 and earlier */
-
+  
   position: absolute;
   top:0;
   bottom: 0;
