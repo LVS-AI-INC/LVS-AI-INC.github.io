@@ -27,7 +27,7 @@ li{list-style:none}
 html,body{ 
 	width:100%;
 	height:100%;
-	background:#FCF2CB;
+	background:#FFFFFF;
 }
 
 html{
@@ -77,7 +77,7 @@ video
 #particles-js{
   width: 100%;
   height: 100%;
-  background-color: #FCF2CB;
+  background-color: #FFFFFF;
   background-image: url('');
   background-size: cover;
   background-position: 50% 50%;
