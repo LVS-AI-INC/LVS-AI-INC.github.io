@@ -1,2 +1,2 @@
-# LVS-Autonomous-Intelligence.github.io
+# LVS-AI-INC.github.io
 Org Website
